@@ -87,6 +87,7 @@ body, html {
 
 .header button:hover .subtitle, .header a:hover .subtitle {
     visibility: visible;
+    cursor: pointer;
 }
 
 footer form input[type="text"]:focus {

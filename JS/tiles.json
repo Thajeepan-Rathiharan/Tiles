@@ -47,7 +47,7 @@ default_tiles = {
         "position" : 2
     },
     "helper_tile" : {
-        "url": "https://github.com/Boettner-eric/Tiles#getting-started",
+        "url": "https://thajeepan-rathiharan.github.io/Tiles/",
         "title": "Want Help?",
         "subtitle": "Click Here",
         "img": "~repository",
